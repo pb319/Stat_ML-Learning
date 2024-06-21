@@ -8,3 +8,5 @@ It will consist of statistical machine learning hands-on exercises from Codebasi
 - Exercise 4 : Save & Load model
 - Exercise 5 : Dummy Variable
 - Exercise 6 : train_test_split
+- Exercise 7 : LogisticResgression(binary)
+
