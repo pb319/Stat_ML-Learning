@@ -8,5 +8,12 @@ It will consist of statistical machine learning hands-on exercises from Codebasi
 - Exercise 4 : Save & Load model
 - Exercise 5 : Dummy Variable
 - Exercise 6 : train_test_split
-- Exercise 7 : LogisticResgression(binary)
+- Exercise 8 : LogisticResgression
+- Exercise 9 : Decision Tree
+- Exercise 10 : Support Vector Machine
+- Exercise 11 : Random Forest
+- Exercise 12 : K Fold Cross Validation
+- Exercise 13 : K Means Clustering
+
+
 
