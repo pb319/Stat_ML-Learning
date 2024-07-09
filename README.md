@@ -14,6 +14,14 @@ It will consist of statistical machine learning hands-on exercises from Codebasi
 - Exercise 11 : Random Forest
 - Exercise 12 : K Fold Cross Validation
 - Exercise 13 : K Means Clustering
+- Exercise 14 : Naive Bayes
+- Exercise 15 : Hyperparameter Tuning
+- Exercise 16 : Regularization (Ridge, Lasso)
+- Exercise 17 : K Nearest Neighbor 
+- Exercise 18 : Bagging
+- Exercise 19 : Principal Component Analysis
+
+
 
 
 
