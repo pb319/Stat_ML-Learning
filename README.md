@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/pb319/Stat_ML-Learning/assets/66114329/fe64e6fa-4aa7-4132-a302-b030058fbb25)
+![Untitled design(1)](https://github.com/pb319/Stat_ML-Learning/assets/66114329/b29add12-9e5a-4142-b88d-2c29fd26842c)
 
 
 # Stat_ML-Learning
