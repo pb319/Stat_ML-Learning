@@ -24,6 +24,8 @@ It will consist of statistical machine learning hands-on exercises from Codebasi
 - Exercise 18 : Bagging
 - Exercise 19 : Principal Component Analysis
 
+Thank You !! Visit Again 
+
 
 
 
