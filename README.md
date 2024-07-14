@@ -5,7 +5,7 @@
 It will consist of statistical machine learning hands-on exercises from Codebasics youtube playlist as part of my skill enhancement.
 
 ## Table of Contents
-- Exercise 0  : [Self-Written Notes](https://github.com/user-attachments/files/16221304/Statistical.Machine.Learning.pdf)
+- Exercise 0  : [Self-Written Notes](Statistical.Machine.Learning.pdf)
 - Exercise 1  : Simple Linear Regression
 - Exercise 2  : Multiple Linear Regression
 - Exercise 3  : Graient Descent
@@ -25,7 +25,7 @@ It will consist of statistical machine learning hands-on exercises from Codebasi
 - Exercise 18 : Bagging
 - Exercise 19 : Principal Component Analysis
 
-Thank You !! Visit Again 
+Thank You !! Visit Again 🙏🙏
 
 
 
